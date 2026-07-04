@@ -1,13 +1,4 @@
-export type DataType = {
-    id: number,
-    name: string,
-    author: string,
-    likes: number,
-    image: string,
-    category: string,
-    dateAdded: string,
 
-}
 
 export const data:DataType[] = [
     {
