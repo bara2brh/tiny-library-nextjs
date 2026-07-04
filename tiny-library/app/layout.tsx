@@ -25,7 +25,7 @@ export default function RootLayout({
     <html
       lang="en"
     >
-      <body className={`${nunitoSans.className} ${lato.variable}`}>
+      <body className={`${nunitoSans.className} ${lato.variable} `}>
         <Navbar/>
         {children}
         </body>
