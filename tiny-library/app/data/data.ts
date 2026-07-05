@@ -1,4 +1,4 @@
-
+import { DataType } from "../types"
 
 export const data:DataType[] = [
     {
