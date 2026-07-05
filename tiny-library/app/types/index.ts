@@ -15,3 +15,10 @@ export type NavLinkProps = {
     children: ReactNode
     isActive?: boolean
 }
+
+export type bookCardProps = {
+    id:number,
+    title:string,
+    category:string,
+    likes:number
+}
