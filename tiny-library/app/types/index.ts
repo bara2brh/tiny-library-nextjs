@@ -18,6 +18,7 @@ export type NavLinkProps = {
 
 export type bookCardProps = {
     id:number,
+    image:string,
     title:string,
     category:string,
     likes:number,
