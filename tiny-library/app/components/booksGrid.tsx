@@ -24,9 +24,9 @@ export default function BooksGrid() {
             likes={book.likes} />)
     return <div className="flex flex-col">
         <div className="py-3 px-15">
-            <div className="rounded-2xl flex gap-4 py-1 px-3 border-1 border-gray-300">
+            <div className="rounded-2xl flex gap-4 py-1 px-3 border border-gray-300">
                 <Search color="#bfc3c9" />
-                <Form action='/books?search'>
+                <Form action='/books'>
                     <input autoComplete="off" className="border-none focus:outline-hidden" type="text" name="search" placeholder="Search for any book ..." />
                 </Form>
             </div>
