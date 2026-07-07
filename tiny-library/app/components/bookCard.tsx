@@ -9,10 +9,10 @@ export default function BookCard({id,image,title,author,category,likes}:bookCard
         <div className='p-2'>
         <h2 className='font-bold mt-2 truncate hover:text-orange-400'>{title}</h2>
         <h4 className='mt-2'>{author}</h4>
-        <p className='text-sm w-max my-4 border border-gray-400 capitalize py-1 rounded-2xl px-2'>{category}</p>
+        <p className='text-sm w-max my-4 border border-gray-400 capitalize py-0.5 rounded-2xl px-2'>{category}</p>
         <div className='flex text-center items-center gap-1'>
             <Heart color='#99a1af' strokeWidth='2px' />
-            <p className='text-sm text-gray-700'> {likes}</p>
+            <p className='text-lg text-gray-500'> {likes}</p>
         </div>
     </div>
     </div>
