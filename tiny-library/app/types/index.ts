@@ -20,5 +20,6 @@ export type bookCardProps = {
     id:number,
     title:string,
     category:string,
-    likes:number
+    likes:number,
+    author:string
 }
