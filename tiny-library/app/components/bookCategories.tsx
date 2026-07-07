@@ -8,8 +8,8 @@ export default function BookCategories(){
     return <div className='gap-5 mx-1 my-4'>
         
         <ul className="flex uppercase whitespace-nowrap overflow-auto scrollbar-none flex-nowrap ">
-        <NavLink href='/'>ALL</NavLink>
-        {categoriesSet.map((category)=>{return <NavLink key={category} href={`/books/${category}`}>{category}</NavLink>})}
+        <NavLink href='/books'>ALL</NavLink>
+        {categoriesSet.map((category)=>{return <NavLink key={category} href={`/books/?category=${category}`}>{category}</NavLink>})}
         </ul>
     </div>
 }
