@@ -4,7 +4,7 @@ import { Layers, Globe, Flag } from 'lucide-react';
 export default function About() {
     return <div className='flex flex-col gap-3 p-6 md:px-30 '>
         <div className='flex flex-col gap-3 md:gap-20 md:flex-row md:self-center md:items-center md:justify-center md:max-w-250'>
-        <Image src={'/hero-image-square.png'} className='max-h-auto object-cover w-full md:max-w-100 ' alt='about image' width={1799} height={1799}></Image>
+        <Image src={'/hero-image-square.jpg'} className='max-h-auto object-cover w-full md:max-w-100 ' alt='about image' width={1000} height={600}></Image>
         <div className='flex flex-col gap-3'>
         <p className='uppercase text-gray-500 text-sm'>About Tiny Library</p>
         <h1 className='text-3xl font-bold'>Small shelf, big impact</h1>

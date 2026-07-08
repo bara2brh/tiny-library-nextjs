@@ -14,7 +14,7 @@ export default function BookDetails() {
     
     return <div className='flex flex-col md:flex-row md:justify-center md:items-center gap-3 p-3 md:max-w-250 md:m-auto md:gap-10 md:mt-5 '>
        
-        <Image src={book.image} className='max-h-auto rounded-lg object-cover w-full md:max-w-130' alt='book image' width={1799} height={1799}></Image>
+        <Image src={book.image} className='max-h-auto rounded-lg object-cover w-full md:max-w-130' alt='book image' width={625} height={937}></Image>
 
         
         <div className='flex flex-col gap-3'>

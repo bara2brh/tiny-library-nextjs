@@ -5,7 +5,7 @@ import type { bookCardProps } from '../types'
 import { Heart } from 'lucide-react';
 export default function BookCard({id,image,title,author,category,likes}:bookCardProps){
     return <Link href={`/books/${id}`}><div className="flex flex-col border border-gray-300 hover:shadow-xl rounded-lg ">
-        <Image src={image} className='max-h-auto rounded-t-lg object-cover w-full ' alt='card image' width={1799} height={1799}></Image>
+        <Image src={image} className='max-h-auto rounded-t-lg object-cover w-full ' alt='card image' width={625} height={937}></Image>
         <div className='p-2'>
         <h2 className='font-bold mt-2 truncate hover:text-orange-400'>{title}</h2>
         <h4 className='mt-2'>{author}</h4>

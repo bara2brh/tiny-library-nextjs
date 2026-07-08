@@ -6,7 +6,7 @@ export const data:DataType[] = [
         "name": "Yesterday, Yesterday and Yesterday",
         "author": "Rachel McDraugh",
         "likes": 391,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2025-02-23T04:49:00Z"
     },
@@ -15,7 +15,7 @@ export const data:DataType[] = [
         "name": "The Last Lighthouse",
         "author": "Marcus Webb",
         "likes": 612,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2024-11-08T10:20:00Z"
     },
@@ -24,7 +24,7 @@ export const data:DataType[] = [
         "name": "How the Mind Works",
         "author": "Dr. Elena Vasquez",
         "likes": 834,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2024-09-14T14:15:00Z"
     },
@@ -33,7 +33,7 @@ export const data:DataType[] = [
         "name": "Beneath the Willow",
         "author": "Claire Hartley",
         "likes": 1203,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2024-07-22T09:45:00Z"
     },
@@ -42,7 +42,7 @@ export const data:DataType[] = [
         "name": "Crown of Ashes",
         "author": "Soren Blackwood",
         "likes": 1567,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2024-05-30T16:30:00Z"
     },
@@ -51,7 +51,7 @@ export const data:DataType[] = [
         "name": "The Silent Call",
         "author": "James Morrow",
         "likes": 998,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2024-03-18T11:00:00Z"
     },
@@ -60,7 +60,7 @@ export const data:DataType[] = [
         "name": "The House on Mill Road",
         "author": "Vera Cross",
         "likes": 745,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2024-01-12T08:55:00Z"
     },
@@ -69,7 +69,7 @@ export const data:DataType[] = [
         "name": "The Silk Merchant's Daughter",
         "author": "Lydia Chen",
         "likes": 892,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "historical",
         "dateAdded": "2023-11-25T13:40:00Z"
     },
@@ -78,7 +78,7 @@ export const data:DataType[] = [
         "name": "Rising: A Life in Sport",
         "author": "David Okonkwo",
         "likes": 567,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "biography",
         "dateAdded": "2023-10-03T10:10:00Z"
     },
@@ -87,7 +87,7 @@ export const data:DataType[] = [
         "name": "Start Before You're Ready",
         "author": "Maya Patel",
         "likes": 1124,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "self-help",
         "dateAdded": "2023-08-19T15:25:00Z"
     },
@@ -96,7 +96,7 @@ export const data:DataType[] = [
         "name": "Glass and Rain",
         "author": "Fiona Reid",
         "likes": 423,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2023-06-07T09:30:00Z"
     },
@@ -105,7 +105,7 @@ export const data:DataType[] = [
         "name": "The Hidden Order",
         "author": "Thomas Shaw",
         "likes": 678,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2023-04-21T12:50:00Z"
     },
@@ -114,7 +114,7 @@ export const data:DataType[] = [
         "name": "Letters from the Lake",
         "author": "Emma Walsh",
         "likes": 934,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2023-02-14T14:00:00Z"
     },
@@ -123,7 +123,7 @@ export const data:DataType[] = [
         "name": "The Seventh Gate",
         "author": "Aria Thorn",
         "likes": 1456,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2022-12-01T11:15:00Z"
     },
@@ -132,7 +132,7 @@ export const data:DataType[] = [
         "name": "No Exit",
         "author": "Helen Crane",
         "likes": 1089,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2022-10-18T08:40:00Z"
     },
@@ -141,7 +141,7 @@ export const data:DataType[] = [
         "name": "The Reflection",
         "author": "Owen Marsh",
         "likes": 712,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2022-08-05T16:20:00Z"
     },
@@ -150,7 +150,7 @@ export const data:DataType[] = [
         "name": "Empire of Dust",
         "author": "Nadia Al-Hassan",
         "likes": 823,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "historical",
         "dateAdded": "2022-05-22T10:55:00Z"
     },
@@ -159,7 +159,7 @@ export const data:DataType[] = [
         "name": "Notes from the Underground",
         "author": "Yuki Tanaka",
         "likes": 445,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "biography",
         "dateAdded": "2022-03-11T13:30:00Z"
     },
@@ -168,7 +168,7 @@ export const data:DataType[] = [
         "name": "The Pause Principle",
         "author": "Dr. James Liu",
         "likes": 987,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "self-help",
         "dateAdded": "2022-01-28T09:05:00Z"
     },
@@ -177,7 +177,7 @@ export const data:DataType[] = [
         "name": "The Unfinished Room",
         "author": "Greta Moss",
         "likes": 534,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2021-11-15T15:45:00Z"
     },
@@ -186,7 +186,7 @@ export const data:DataType[] = [
         "name": "Deep Blue",
         "author": "Marina Kostas",
         "likes": 756,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2021-09-02T11:20:00Z"
     },
@@ -195,7 +195,7 @@ export const data:DataType[] = [
         "name": "First Snow",
         "author": "Leo Andersen",
         "likes": 1189,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2021-07-20T14:10:00Z"
     },
@@ -204,7 +204,7 @@ export const data:DataType[] = [
         "name": "Blood and Iron",
         "author": "Kael the Elder",
         "likes": 1345,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2021-05-08T08:35:00Z"
     },
@@ -213,7 +213,7 @@ export const data:DataType[] = [
         "name": "The Proxy",
         "author": "Ruth Klein",
         "likes": 876,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2021-03-26T12:00:00Z"
     },
@@ -222,7 +222,7 @@ export const data:DataType[] = [
         "name": "Whisper Lane",
         "author": "Simon Graves",
         "likes": 623,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2021-01-14T10:25:00Z"
     },
@@ -231,7 +231,7 @@ export const data:DataType[] = [
         "name": "The Printer's Revolt",
         "author": "Hans Mueller",
         "likes": 567,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "historical",
         "dateAdded": "2020-10-31T15:50:00Z"
     },
@@ -240,7 +240,7 @@ export const data:DataType[] = [
         "name": "Breaking Surface",
         "author": "Maria Santos",
         "likes": 734,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "biography",
         "dateAdded": "2020-08-17T09:40:00Z"
     },
@@ -249,7 +249,7 @@ export const data:DataType[] = [
         "name": "Quiet Confidence",
         "author": "Anita Brooks",
         "likes": 1056,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "self-help",
         "dateAdded": "2020-06-04T13:15:00Z"
     },
@@ -258,7 +258,7 @@ export const data:DataType[] = [
         "name": "The Guest List",
         "author": "Peter Vale",
         "likes": 489,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2020-04-22T11:00:00Z"
     },
@@ -267,7 +267,7 @@ export const data:DataType[] = [
         "name": "Invisible Cities",
         "author": "Luca Ferrara",
         "likes": 812,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2020-02-09T14:45:00Z"
     },
@@ -276,7 +276,7 @@ export const data:DataType[] = [
         "name": "Second Chances",
         "author": "Holly Greene",
         "likes": 1023,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2019-12-27T08:30:00Z"
     },
@@ -285,7 +285,7 @@ export const data:DataType[] = [
         "name": "The Hollow Throne",
         "author": "Rowan Ash",
         "likes": 1678,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2019-10-14T16:20:00Z"
     },
@@ -294,7 +294,7 @@ export const data:DataType[] = [
         "name": "Double Blind",
         "author": "Kate Sterling",
         "likes": 945,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2019-08-01T10:55:00Z"
     },
@@ -303,7 +303,7 @@ export const data:DataType[] = [
         "name": "The Crawl Space",
         "author": "Derek Holt",
         "likes": 689,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2019-05-19T12:40:00Z"
     },
@@ -312,7 +312,7 @@ export const data:DataType[] = [
         "name": "River of Ink",
         "author": "Priya Sharma",
         "likes": 778,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "historical",
         "dateAdded": "2019-03-07T09:25:00Z"
     },
@@ -321,7 +321,7 @@ export const data:DataType[] = [
         "name": "Voice of the Valley",
         "author": "Rosa Mendez",
         "likes": 612,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "biography",
         "dateAdded": "2018-12-24T15:10:00Z"
     },
@@ -330,7 +330,7 @@ export const data:DataType[] = [
         "name": "Boundaries Without Guilt",
         "author": "Dr. Sarah Chen",
         "likes": 1234,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "self-help",
         "dateAdded": "2018-10-11T11:35:00Z"
     },
@@ -339,7 +339,7 @@ export const data:DataType[] = [
         "name": "The Slow Train",
         "author": "Ivan Petrov",
         "likes": 456,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2018-07-29T14:00:00Z"
     },
@@ -348,7 +348,7 @@ export const data:DataType[] = [
         "name": "The Invention of Silence",
         "author": "Dr. Nora Bell",
         "likes": 891,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2018-05-16T08:50:00Z"
     },
@@ -357,7 +357,7 @@ export const data:DataType[] = [
         "name": "Summer at the Shore",
         "author": "Jake Morrison",
         "likes": 1102,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2018-03-04T10:15:00Z"
     },
@@ -366,7 +366,7 @@ export const data:DataType[] = [
         "name": "The Drowned Kingdom",
         "author": "Elara Swift",
         "likes": 1423,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2017-12-21T13:40:00Z"
     },
@@ -375,7 +375,7 @@ export const data:DataType[] = [
         "name": "The Asset",
         "author": "Mark Reeves",
         "likes": 867,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2017-10-08T16:25:00Z"
     },
@@ -384,7 +384,7 @@ export const data:DataType[] = [
         "name": "The Watcher in the Woods",
         "author": "Beth Crowe",
         "likes": 734,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2017-07-26T09:10:00Z"
     },
@@ -393,7 +393,7 @@ export const data:DataType[] = [
         "name": "The Last Voyage of the Meridian",
         "author": "Captain James Cole",
         "likes": 645,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "historical",
         "dateAdded": "2017-05-13T11:55:00Z"
     },
@@ -402,7 +402,7 @@ export const data:DataType[] = [
         "name": "From Scratch",
         "author": "Elena Rossi",
         "likes": 923,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "biography",
         "dateAdded": "2017-03-01T14:30:00Z"
     },
@@ -411,7 +411,7 @@ export const data:DataType[] = [
         "name": "The Restorative Hour",
         "author": "Dr. Amy Foster",
         "likes": 1087,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "self-help",
         "dateAdded": "2016-12-18T08:05:00Z"
     },
@@ -420,7 +420,7 @@ export const data:DataType[] = [
         "name": "The Book of Lost Names",
         "author": "Sophie Laurent",
         "likes": 578,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fiction",
         "dateAdded": "2016-10-05T12:50:00Z"
     },
@@ -429,7 +429,7 @@ export const data:DataType[] = [
         "name": "The Human Zoo",
         "author": "Prof. Ian Webb",
         "likes": 756,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "non-fiction",
         "dateAdded": "2016-07-23T15:15:00Z"
     },
@@ -438,7 +438,7 @@ export const data:DataType[] = [
         "name": "Midnight in Paris",
         "author": "Julien Moreau",
         "likes": 1001,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "romance",
         "dateAdded": "2016-05-10T10:40:00Z"
     },
@@ -447,7 +447,7 @@ export const data:DataType[] = [
         "name": "The Stone Singer",
         "author": "Mira Stone",
         "likes": 1389,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "fantasy",
         "dateAdded": "2016-02-27T13:25:00Z"
     },
@@ -456,7 +456,7 @@ export const data:DataType[] = [
         "name": "The Safe House",
         "author": "Lisa Torres",
         "likes": 812,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "thriller",
         "dateAdded": "2015-12-15T09:00:00Z"
     },
@@ -465,7 +465,7 @@ export const data:DataType[] = [
         "name": "The Nursery",
         "author": "Grant Webb",
         "likes": 667,
-        "image": "/hero-image-square.png",
+        "image": "/book-cover.webp",
         "category": "horror",
         "dateAdded": "2015-09-02T16:45:00Z"
     }
