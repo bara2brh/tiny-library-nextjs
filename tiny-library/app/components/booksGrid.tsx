@@ -22,16 +22,16 @@ export default function BooksGrid() {
             author={book.author}
             category={book.category}
             likes={book.likes} />)
-    return <div className="flex flex-col">
+    return <div className="flex flex-col md:items-center ">
         <div className="py-3 px-15">
-            <div className="rounded-2xl flex gap-4 py-1 px-3 border border-gray-300">
+            <div className="rounded-2xl flex gap-4 md:min-w-150  py-1 px-3 border border-gray-300">
                 <Search color="#bfc3c9" />
                 <Form action='/books'>
                     <input autoComplete="off" className="border-none focus:outline-hidden" type="text" name="search" placeholder="Search for any book ..." />
                 </Form>
             </div>
         </div>
-        <div className="grid grid-cols-2 gap-3 p-3">
+        <div className="grid grid-cols-2 gap-3 p-3 md:grid-cols-4 md:max-w-300 md:gap-5">
             {booksData}
         </div>
     </div>
