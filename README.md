@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/tinylibrary-logo.png" alt="Tiny Library logo" width="140" />
+  <img width="200" height="200" alt="tinylibrary-logo" src="https://github.com/user-attachments/assets/8f399b9c-1f5a-492d-afba-bb09e4acad5a" />
 </p>
 
 <h1 align="center">Tiny Library</h1>
