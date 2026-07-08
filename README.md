@@ -14,6 +14,9 @@
 
 Tiny Library is a small, curated book‑discovery site built with **Next.js**. Instead of endless algorithmic scrolling, it keeps the catalogue intentionally small so every book feels like a genuine recommendation. Visitors can browse the full collection, filter by category, search by title, and open a dedicated page for each book.
 
+## Demo Link
+https://tiny-library-nextjs-wine.vercel.app
+
 ## Screenshots
 
 <!--
